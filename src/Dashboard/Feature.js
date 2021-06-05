@@ -1,11 +1,12 @@
-import React from 'react';
+import React from "react";
 
 const Feature = () => {
-    return (
-        <div>
-            <h1>Feature</h1>
-        </div>
-    );
+  return (
+    <div>
+      <h1>Features</h1>
+      <p>Description of how our project work.</p>
+    </div>
+  );
 };
 
 export default Feature;
